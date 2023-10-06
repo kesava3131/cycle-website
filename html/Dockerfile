@@ -1,2 +1,2 @@
-FROM nginx
-COPY . /usr/share/nginx/html
+From httpd
+COPY . /usr/local/apache2/htdocs/
